@@ -6,9 +6,9 @@ Ce projet automatise la gestion des présences hebdomadaires à partir de Google
 
 ## 🔧 Fonctionnalités principales
 
-- 🔗 Intégration avec Google Sheets et Google Calendar
+- 🔗 Intégration avec Google Sheets et Google Calendar 
 - 🧠 Génération dynamique de messages via OpenAI GPT
 - 📤 Webhook d’entrée pour mises à jour externes
 - 🏗 Interface front-end HTML/CSS (planning visuel)
 - 📝 Documentation technique intégrée
-
+- Tous les templates de grille de présence et fichier nécessaires sont disponibles sur google drive :  https://drive.google.com/drive/my-drive
